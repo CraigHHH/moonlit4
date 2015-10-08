@@ -82,11 +82,11 @@ input[type=checkbox]:checked + label:before {
   -moz-background-size: cover;
   -o-background-size: cover;
 */
-  background-size: 40em;   
+  background-size: 46em;   
   z-index: 11;
   position: relative;
   margin: 0 auto;
-  height: 57em;
+  height: 60em;
 }
 
 .scene {
